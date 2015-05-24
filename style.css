@@ -1,0 +1,93 @@
+body {
+	background-color: #FBF2E1;
+	font-family:  Lucida;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	color: #942626;
+
+}
+ol { 
+	display: block;
+}
+li {
+	list-style-type: square;
+	padding: 20px;
+	margin-left: 5px;
+	border-radius: 4px;
+	max-width: 75%;
+	 
+}
+.iceCreamRaspberry{
+	padding: 20px;
+	margin-left: 5px;
+	color: #663300;
+	background-color: #FF75D1;
+	border-radius: 4px;
+	max-width: 75%;
+
+}
+.iceCreamMint{
+	padding: 20px;
+	margin-left: 5px;
+	color: black;
+	background-color: #CCFFCC;
+	border-radius: 4px;
+	max-width: 75%;
+
+}
+.iceCreamCookie{
+	padding: 20px;
+	margin-left: 5px;
+	color: brown;
+	background-color: #FBF2E1;
+	border-radius: 4px;
+	max-width: 75%;	
+}
+.iceCreamRainbow{
+	padding: 20px;
+	margin-left: 5px;
+	color: #5CB8E6;
+	background-color: #FFFFA3;
+	border-radius: 4px;
+	max-width: 75%;
+
+}
+.boxRaspberry {
+	background-color: #663300;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+}
+.boxMint {
+	background-color: black;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+}
+.boxCookie {
+	background-color: #942626;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;	
+}
+.boxRainbow {
+	background-color: hotpink;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+}
+.image1{
+	padding: 15px;
+	width: 160px;
+	height: 153px;
+	display:flex;
+
+}
