@@ -10,6 +10,12 @@ h2 {
 	color: #942626;
 
 }
+h3 {
+	text-align: center;
+	color: #942626;
+	font-weight: normal;
+
+}
 ol { 
 	display: block;
 }
@@ -50,7 +56,7 @@ li {
 .iceCreamRainbow{
 	padding: 20px;
 	margin-left: 5px;
-	color: #5CB8E6;
+	color: #224556;
 	background-color: #FFFFA3;
 	border-radius: 4px;
 	max-width: 75%;
@@ -62,6 +68,9 @@ li {
 	padding: 5px;
 	border-radius: 4px;
 	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;
+    /*ms-flex for IE */
 }
 .boxMint {
 	background-color: black;
@@ -69,13 +78,70 @@ li {
 	padding: 5px;
 	border-radius: 4px;
 	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;
 }
 .boxCookie {
 	background-color: #942626;
 	margin: 10px;
 	padding: 5px;
 	border-radius: 4px;
-	display:flex;	
+	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;	
+}
+.boxTopic {
+	background-color: lightblue;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;
+}
+.boxComp {
+	background-color: #D92C00;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;
+}
+.boxThink {
+	background-color:#C8A2C8;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;	
+}
+.cottonTopic{
+	padding: 20px;
+	margin-left: 5px;
+	background-color: white;
+	border-radius: 4px;
+	max-width: 75%;
+
+}
+.appleComp{
+	padding: 20px;
+	margin-left: 5px;
+	color: #6D8C14;
+	background-color: #E4FF98;
+	border-radius: 4px;
+	max-width: 75%;
+
+}
+.candyThink{
+	padding: 20px;
+	margin-left: 5px;
+	color: #C8A2C8;
+	background-color: white;
+	border-radius: 4px;
+	max-width: 75%;
+
 }
 .boxRainbow {
 	background-color: hotpink;
@@ -83,11 +149,22 @@ li {
 	padding: 5px;
 	border-radius: 4px;
 	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;	
 }
-.image1{
+.image1 {
 	padding: 15px;
-	width: 160px;
+	border-radius: 50%;
+	width: 153px;
 	height: 153px;
-	display:flex;
+
+}
+.footer {
+	background-color: limegreen;
+	margin: 30px;
+	padding: 10px;
+	border-radius: 10px;
+	color: white;
+	text-align: center;
 
 }
