@@ -1,0 +1,171 @@
+body {
+	background-color: #FBF2E1;
+	font-family:  Lucida;
+}
+h1 {
+	/*text-align: center;*/
+}
+h2 {
+	text-align: center;
+	color: #942626;
+
+}
+h3 {
+	text-align: center;
+	color: #942626;
+	font-weight: normal;
+
+}
+ol { 
+	display: block;
+}
+li {
+	list-style-type: square;
+	padding-left: 25px;
+	padding-bottom: 5px;
+	margin-left: 5px;
+	border-radius: 4px;
+	max-width: 75%;
+	 
+}
+.iceCreamRaspberry{
+	padding: 20px;
+	margin-left: 5px;
+	color: #663300;
+	background-color: #FF75D1;
+	border-radius: 4px;
+	max-width: 75%;
+
+}
+.iceCreamMint{
+	padding: 20px;
+	margin-left: 5px;
+	color: black;
+	background-color: #CCFFCC;
+	border-radius: 4px;
+	max-width: 75%;
+
+}
+.iceCreamCookie{
+	padding: 20px;
+	margin-left: 5px;
+	color: brown;
+	background-color: #FBF2E1;
+	border-radius: 4px;
+	max-width: 75%;	
+}
+.iceCreamRainbow{
+	padding: 20px;
+	margin-left: 5px;
+	color: #224556;
+	background-color: #FFFFA3;
+	border-radius: 4px;
+	max-width: 75%;
+
+}
+.boxRaspberry {
+	background-color: #663300;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;
+    /*ms-flex for IE */
+}
+.boxMint {
+	background-color: black;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;
+}
+.boxCookie {
+	background-color: #942626;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;	
+}
+.boxTopic {
+	background-color: lightblue;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;
+}
+.boxComp {
+	background-color: #D92C00;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;
+}
+.boxThink {
+	background-color:#C8A2C8;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;	
+}
+.cottonTopic{
+	padding: 20px;
+	margin-left: 5px;
+	background-color: white;
+	border-radius: 4px;
+	max-width: 75%;
+
+}
+.appleComp{
+	padding: 20px;
+	margin-left: 5px;
+	color: #6D8C14;
+	background-color: #E4FF98;
+	border-radius: 4px;
+	max-width: 75%;
+
+}
+.candyThink{
+	padding: 20px;
+	margin-left: 5px;
+	color: #C8A2C8;
+	background-color: white;
+	border-radius: 4px;
+	max-width: 75%;
+
+}
+.boxRainbow {
+	background-color: hotpink;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	display:flex;
+	display: -ms-flexbox;
+    -ms-flex-pack: center;	
+}
+.image1 {
+	padding: 15px;
+	border-radius: 50%;
+	width: 153px;
+	height: 153px;
+
+}
+.footer {
+	background-color: limegreen;
+	margin: 30px;
+	padding: 10px;
+	border-radius: 10px;
+	color: white;
+	text-align: center;
+
+}
